@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1035088815045",
+    "firebase_url": "https://rinkd-8c3d4.firebaseio.com",
+    "project_id": "rinkd-8c3d4",
+    "storage_bucket": "rinkd-8c3d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035088815045:android:457a5a53e960ae78bfe1ac",
+        "android_client_info": {
+          "package_name": "com.example.rinkdproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035088815045-79hjcb28au9povr1l4ktkj8h8bvjmf2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rinkdproject",
+            "certificate_hash": "cd0cd152319e266b4c73a8a88070012867963519"
+          }
+        },
+        {
+          "client_id": "1035088815045-k7j7ucc6k59oc71oj084vrhbb9q972tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0bUkZTNyEcxg-mkvC_P9pPm54c2pkw2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035088815045-k7j7ucc6k59oc71oj084vrhbb9q972tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
